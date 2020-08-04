@@ -1,1 +1,2 @@
 # shortestpath
+connect test
